@@ -1,4 +1,4 @@
-package helloworld
+package helloworld;
 public class Hello{
   public void methodCall(){
         int i = 1;
