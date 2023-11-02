@@ -1,4 +1,4 @@
-name: Embold Scan on Branch Push
+name: Embold Scan
 
 on:
   push:
