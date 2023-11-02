@@ -1,7 +1,7 @@
 package com.example.java
 public class Hello{
-  public void printStmt(){
-    logger.info("added new code");
-    logger.info("added new code");
-  }
+  public void methodCall(){
+        int i = 1;
+        i = i+12; 
+    }
 }
